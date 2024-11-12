@@ -7,9 +7,7 @@ This repository contains an interactive HR Analytics Dashboard built with Tablea
 - [Screenshots](#screenshots)
 - [Features](#features)
 - [Data](#data)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [License](#license)
+
 
 ## Overview
 The HR Analytics Dashboard is designed to help HR teams monitor employee metrics, gain insights into workforce trends, and analyze the factors impacting employee engagement and retention. By using this dashboard, HR professionals can quickly identify areas of improvement and make data-driven decisions to enhance HR strategies.
@@ -40,9 +38,3 @@ The dashboard uses HR data, which may include:
 - Job Role, Performance Rating, Salary Information
 - Hire Date, Termination Date, and other employment details
 
-*Note: Replace with specifics if using proprietary data fields.*
-
-## Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/hr-analytics-dashboard.git
